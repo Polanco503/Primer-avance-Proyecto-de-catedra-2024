@@ -1,29 +1,31 @@
+/* LoginForm.css */
 .login-container {
     padding: 20px;
     border: 1px solid #ccc;
     border-radius: 5px;
     margin: auto;
     width: 50%;
-}
-
-.login-form .form-group {
+  }
+  
+  .login-form .form-group {
     margin-bottom: 15px;
-}
-
-.login-form label {
+  }
+  
+  .login-form label {
     display: block;
     margin-bottom: 5px;
-}
-
-.login-form .form-control {
+  }
+  
+  .login-form .form-control {
     width: 100%;
     padding: 8px;
     font-size: 16px;
     border: 1px solid #ccc;
     border-radius: 5px;
-}
-
-.btn-login {
+  }
+  
+  .btn-login,
+  .btn-login-google {
     width: 100%;
     padding: 10px;
     background-color: #007bff;
@@ -31,8 +33,11 @@
     border: none;
     border-radius: 5px;
     cursor: pointer;
-}
-
-.btn-login:hover {
+    margin-top: 10px;
+  }
+  
+  .btn-login:hover,
+  .btn-login-google:hover {
     background-color: #0056b3;
-}
+  }
+  

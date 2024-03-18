@@ -1,13 +1,13 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import LoginForm from "./components/login/login.tsx";
-import { BrowserRouter } from 'react-router-dom';
-import './style/style.css'
+import App from "./app";
+import "./style/style.css";
+import { BrowserRouter } from "react-router-dom";
 
 ReactDOM.createRoot(document.getElementById("root")!).render(
   <React.StrictMode>
-    <div className="main-login-container">
-      <LoginForm />
-    </div>
+      <BrowserRouter>
+        <App/>
+      </BrowserRouter>
   </React.StrictMode>
 );

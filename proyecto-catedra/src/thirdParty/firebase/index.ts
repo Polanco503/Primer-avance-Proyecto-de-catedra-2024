@@ -34,7 +34,7 @@ class Firebase {
         const provider = new GoogleAuthProvider();
         const singInWithPopUpResponse = await signInWithPopup(this.auth, provider)
         const googleAuthResponse = GoogleAuthProvider.credentialFromResult(singInWithPopUpResponse)
-        console.log("RESPONSE", singInWithPopUpResponse)
+        return googleAuthResponse
     }
 }
 

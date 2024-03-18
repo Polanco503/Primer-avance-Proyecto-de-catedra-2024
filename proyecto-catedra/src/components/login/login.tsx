@@ -1,10 +1,11 @@
 import { useState } from "react";
-import { useHistory } from 'react-router-dom';
 import FirebaseApp from "../../thirdParty/firebase";
 import "./style/login.css";
+import { useNavigate } from "react-router-dom";
 
 const LoginForm = () => {
   // Definir el estado para el nombre de usuario y la contraseña
+  const navigate = useNavigate();
   const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
 
@@ -20,16 +21,33 @@ const LoginForm = () => {
 
   // Manejar envío del formulario
   const handleSubmit = async (event: any) => {
+    try {
     event.preventDefault();
-    const createUserResponse = await FirebaseApp.loginWithEmailAndPassword(
+    const loginUser = await FirebaseApp.loginWithEmailAndPassword(
       username,
       password
     );
+    /**
+     * TODO: add local storage
+     */
+    if(loginUser.user.uid){
+      navigate("/home");
+    }
+    } catch {}
+
   };
 
 
   const LogInWithGoogle = async () => {
-    const createUserResponse = await FirebaseApp.authWithGoogle();
+    try {
+      const googleAuthResponse = await FirebaseApp.authWithGoogle();
+      /**
+       * TODO: add local storage
+       */
+      if(googleAuthResponse?.idToken){
+        navigate("/home");
+      }
+    } catch {}
   };
 
   return (

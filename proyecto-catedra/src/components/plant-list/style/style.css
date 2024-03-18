@@ -1,0 +1,39 @@
+/* PlantListView.css */
+.plant-list-view {
+    text-align: center;
+  }
+  
+  .header {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .plant-image {
+    width: 50px; /* Ajusta el tamaño de la imagen según sea necesario */
+    margin-right: 10px;
+  }
+  
+  .plant-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .plant {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    width: 300px; /* Ajusta el ancho del elemento de la planta según sea necesario */
+  }
+  
+  .plant-thumbnail {
+    width: 100%;
+    border-radius: 8px;
+  }
+  
+  .plant-details {
+    margin-top: 10px;
+  }
+  
