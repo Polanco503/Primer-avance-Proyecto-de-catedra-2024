@@ -35,7 +35,7 @@ ________________________________________________________________________________
 ## Interfas Figma.
 
 > [!NOTE]
-> Figma puede pedir por credenciales, porfavor comunicarse con nosotros para habilitar el acceso.
+> Figma puede pedir credenciales, porfavor comunicarse con nosotros para habilitar el acceso.
 
 + [Figma links](https://www.figma.com/file/vr3MbK1O26YyBcnaLFg34V/Mockupcymv?type=design&node-id=0%3A1&mode=design&t=rZZEEcLzvcZUaf7r-1)
 
