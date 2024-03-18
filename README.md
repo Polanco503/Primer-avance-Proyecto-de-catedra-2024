@@ -2,15 +2,15 @@
 
 ## AUTORES
 
-Bryan Willian Hernández Artiaga HA231511
++ Bryan Willian Hernández Artiaga HA231511
 
-David Isaac Segura Sanchez SS231442
++ David Isaac Segura Sanchez SS231442
 
-Lucas Giovanni Polanco Amaya PA233030
++ Lucas Giovanni Polanco Amaya PA233030
 
-Byron Alexander Alfaro Ventura AV230883
++ Byron Alexander Alfaro Ventura AV230883
 
-Jefferson alexandro solorzano fuentes SF232013
++ Jefferson alexandro solorzano fuentes SF232013
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
