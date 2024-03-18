@@ -41,3 +41,7 @@ ________________________________________________________________________________
 [Figma links](https://www.figma.com/file/LR4uacwyxWPUVrCFpjcFat/Mackups?type=design&node-id=2%3A17&mode=design&t=rZZEEcLzvcZUaf7r-1)
 
 [Figma links](https://www.figma.com/file/LR4uacwyxWPUVrCFpjcFat/Mackups?type=design&node-id=5%3A6&mode=design&t=rZZEEcLzvcZUaf7r-1)
+
+_________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+>Rublica
