@@ -14,14 +14,24 @@ LICENCIA No Comercial (by-nc) Tiene permitido la generación de obras derivadas 
 
 [ScreenShots Mockups](https://drive.google.com/file/d/1BWikeUBLyd6oIpf6HYBZPdatXVnj8ccz/view?usp=drive_link)
 
+[Figma links](https://www.figma.com/file/vr3MbK1O26YyBcnaLFg34V/Mockupcymv?type=design&node-id=0%3A1&mode=design&t=rZZEEcLzvcZUaf7r-1)
+
+[Figma links](https://www.figma.com/file/vr3MbK1O26YyBcnaLFg34V/Mockupcymv?type=design&node-id=1%3A2&mode=design&t=rZZEEcLzvcZUaf7r-1)
+
+[Figma links](https://www.figma.com/file/LR4uacwyxWPUVrCFpjcFat/Mackups?type=design&node-id=2%3A17&mode=design&t=rZZEEcLzvcZUaf7r-1)
+
+[Figma links](https://www.figma.com/file/LR4uacwyxWPUVrCFpjcFat/Mackups?type=design&node-id=5%3A6&mode=design&t=rZZEEcLzvcZUaf7r-1)
+
+
+
 AUTORES
 
-Bryan Willian Hernández Artiaga
+Bryan Willian Hernández Artiaga HA231511
 
-David Isaac Segura Sanchez
+David Isaac Segura Sanchez SS231442
 
-Lucas Giovanni Polanco Amaya 
+Lucas Giovanni Polanco Amaya PA233030
 
-Byron Alexander Alfaro Ventura
+Byron Alexander Alfaro Ventura AV230883
 
-Jefferson alexandro solorzano fuentes
+Jefferson alexandro solorzano fuentes SF232013
