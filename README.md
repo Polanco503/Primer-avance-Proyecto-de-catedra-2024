@@ -1,5 +1,5 @@
 # Primer-avance-Proyecto-de-catedra-2024
-# AUTORES
+#2 AUTORES
 
 Bryan Willian Hernández Artiaga HA231511
 
