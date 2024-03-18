@@ -15,7 +15,11 @@ LICENCIA No Comercial (by-nc) Tiene permitido la generación de obras derivadas 
 AUTORES
 
 Bryan Willian Hernández Artiaga
+
 David Isaac Segura Sanchez
+
 Lucas Giovanni Polanco Amaya 
+
 Byron Alexander Alfaro Ventura
+
 Jefferson alexandro solorzano fuentes
