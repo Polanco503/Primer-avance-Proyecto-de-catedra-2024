@@ -2,7 +2,7 @@
 
 ## AUTORES
 
-+ Bryan Willian Hernández Artiaga HA231511 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Text+Me+One&weight=200&duration=4000&pause=1000&color=F71818&background=C2FF5300&multiline=true&random=false&width=435&lines=HA231511)](https://git.io/typing-svg)
++ Bryan Willian Hernández Artiaga HA231511
 
 + David Isaac Segura Sanchez SS231442
 
