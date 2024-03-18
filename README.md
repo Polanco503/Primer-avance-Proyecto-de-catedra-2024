@@ -1,4 +1,5 @@
-AUTORES
+# Primer-avance-Proyecto-de-catedra-2024
+# AUTORES
 
 Bryan Willian Hernández Artiaga HA231511
 
@@ -11,7 +12,6 @@ Byron Alexander Alfaro Ventura AV230883
 Jefferson alexandro solorzano fuentes SF232013
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-# Primer-avance-Proyecto-de-catedra-2024
 
 Creacion de una aplicación que permite el control del cuidado de plantas y flores personales para la materia Desarrollo de Aplic. Web con Soft. Interpret. en el Cliente de la Universidad Don Bosco, El Salvador.
 
