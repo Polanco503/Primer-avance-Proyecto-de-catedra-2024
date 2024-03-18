@@ -12,6 +12,8 @@ LICENCIA No Comercial (by-nc) Tiene permitido la generación de obras derivadas 
 
 [Diagrama UML (Edits enable)](https://lucid.app/lucidchart/b4557335-509e-4869-900a-13972dd53e17/edit?viewport_loc=-437%2C-575%2C4456%2C2070%2C0_0&invitationId=inv_c5ca3ff4-87b8-4482-b4e3-e2681655c524)
 
+[ScreenShots Mockups](https://drive.google.com/file/d/1BWikeUBLyd6oIpf6HYBZPdatXVnj8ccz/view?usp=drive_link)
+
 AUTORES
 
 Bryan Willian Hernández Artiaga
