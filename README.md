@@ -50,3 +50,7 @@ ________________________________________________________________________________
 ### Rublica
 
 ![Rublica](https://github.com/Polanco503/Primer-avance-Proyecto-de-catedra-2024/assets/150948300/5ebcf3ea-e86d-483d-b236-fd29479c7db2)
+
+###
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Text+Me+One&weight=200&duration=2000&pause=1000&color=F71818&background=C2FF5300&multiline=true&random=false&width=435&lines=Hecho+++%CB%97%CB%8B%CB%8F+%E2%99%A1+%CB%8E%CB%8A%CB%97++con+cari%C3%B1o++%3Atwo_hearts%3A)](https://git.io/typing-svg)
