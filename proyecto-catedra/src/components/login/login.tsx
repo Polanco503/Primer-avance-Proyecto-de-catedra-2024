@@ -33,7 +33,7 @@ const LoginForm = () => {
     if(loginUser.user.uid){
       navigate("/home");
     }
-    } catch {}
+    } catch (err){}
 
   };
 
@@ -47,7 +47,7 @@ const LoginForm = () => {
       if(googleAuthResponse?.idToken){
         navigate("/home");
       }
-    } catch {}
+    } catch (err){}
   };
 
   return (
@@ -78,7 +78,7 @@ const LoginForm = () => {
           Iniciar Sesión
         </button>
       </form>
-      <button onClick={LogInWithGoogle}>Sing in with google</button>
+      <button onClick={LogInWithGoogle}>Iniciar session con google</button>
     </div>
   );
 };

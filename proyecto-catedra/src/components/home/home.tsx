@@ -11,7 +11,7 @@ function App() {
         <Link to="/plant-list">
           <div className="option">
             <img
-              src="https://principia.io/media/uploads/images/colegio-domus/1-plantas.jpg"
+              src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Diversity_of_plants_%28Streptophyta%29_version_2.png/500px-Diversity_of_plants_%28Streptophyta%29_version_2.png"
               width="100px"
               height="100px"
               alt=""
@@ -28,15 +28,6 @@ function App() {
           />
 
           <h2>Alerta abonos</h2>
-        </div>
-        <div className="option">
-          <img
-            src="https://images.ecestaticos.com/QZEh47MJJTHBI1G8qNfajGgPXyY=/0x0:2272x1505/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F809%2F7cb%2F0c7%2F8097cb0c707326e2cbaf19fb2948195a.jpg"
-            width="100px"
-            height="100px"
-            alt=""
-          />
-          <h2>Podar, talar y rajar</h2>
         </div>
       </div>
     </div>
