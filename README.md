@@ -10,7 +10,7 @@
 
 + Byron Alexander Alfaro Ventura AV230883
 
-+ Jefferson alexandro solorzano fuentes SF232013
++ Jefferson Alexandro Solorzano Fuentes SF232013
 
 + Caleb Alejandro Peñate Deras PD230166
   
