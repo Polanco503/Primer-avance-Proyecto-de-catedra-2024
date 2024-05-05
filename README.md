@@ -1,10 +1,10 @@
-# Primer-avance-Proyecto-de-catedra-2024
+# Primer-avance-Proyecto-de-catedra-2024. -
 
 ## AUTORES
 
 + Bryan Willian Hernández Artiaga HA231511
 
-+ David Isaac Segura Sanchez SS231442
++ David Isaac Segura Sánchez SS231442
 
 + Lucas Giovanni Polanco Amaya  PA233030
 
