@@ -35,7 +35,7 @@ ________________________________________________________________________________
 
 + [ScreenShots Mockups](https://drive.google.com/file/d/1BWikeUBLyd6oIpf6HYBZPdatXVnj8ccz/view?usp=drive_link)
 
-+ [CODIGOACTUALFINAL](https://drive.google.com/file/d/1cGB90uGbRVkZGJRuN7FGTg9VipUPVDLI/view?usp=drive_link)
++ [CODIGOACTUALFINAL](https://drive.google.com/file/d/1cGB90uGbRVkZGJRuN7FGTg9VipUPVDLI/view?usp=drive_link) [razon del enlace github solo soporta 22MG]
 
 + [Manual](https://drive.google.com/file/d/1KUT3We9IFABL55JYzP_ilEbs9bMkPRVn/view?usp=sharing)
 
